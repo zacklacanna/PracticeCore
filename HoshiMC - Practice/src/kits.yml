@@ -1,0 +1,61 @@
+kits:
+  default:
+    items:
+      0:
+        id: 57
+        data: 0
+        amount: 1
+        name: "&aTest item"
+        lore:
+        - '&r'
+        - '&f&ncan add any lore or name'
+        enchants:
+        - 'DURABILITY;5'
+      1:
+        id: 322
+        data: 1
+        amount: 1
+        name: ""
+        lore:
+        - ''
+        enchants:
+        - ''
+      2:
+        id: 57
+        data: 0
+        amount: 64
+        name:
+        lore:
+        - ''
+        enchants:
+        - ''
+  op:
+    items:
+      0:
+        id: 278
+        data: 0
+        amount: 1
+        name: "&aTest item"
+        lore:
+        - '&r'
+        - '&f&ncan add any lore or name'
+        enchants:
+        - 'DURABILITY;5'
+      1:
+        id: 322
+        data: 1
+        amount: 1
+        name: ""
+        lore:
+        - ''
+        enchants:
+        - ''
+      2:
+        id: 57
+        data: 0
+        amount: 64
+        name:
+        lore:
+        - ''
+        enchants:
+        - ''

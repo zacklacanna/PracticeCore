@@ -1,0 +1,19 @@
+name: HoshiPractice
+author: BoyJamal
+version: BETA
+main: me.BoyJamal.practice.Main
+depend: [ProtocolLib]
+softdepend: [TitleAPI]
+commands:
+  party:
+    default: true
+    usage: /<command>
+    description: Party Command
+  stats:
+    default: true
+    usage: /<command>
+    description: Stats Command
+  arena:
+    default: true
+    usage: /<command>
+    description: arena command
